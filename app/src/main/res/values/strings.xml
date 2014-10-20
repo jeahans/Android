@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hichscore">Hichscore</string>
+    <string name="title_activity_kategorier">Kategorier</string>
+    <string name="title_activity_spillet">Spillet</string>
+    <string name="title_activity_highscore">Highscore</string>
+    <string name="title_activity_spil_faerdigt">SpilFaerdigt</string>
+    <string name="title_activity_spil_typer">SpilTyper</string>
+    <string name="title_activity_upload">Upload</string>
+    <string name="title_activity_log_ind">LogInd</string>
+
+</resources>
